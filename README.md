@@ -1,7 +1,3 @@
-Sure thing! Here’s a fun and friendly README file for your GitHub repo:
-
----
-
 # 🍽️ Restaurant Rating Predictor 🍴
 
 Welcome to the **Restaurant Rating Predictor** project! This web app lets you predict the rating of a restaurant based on different features like cuisines, price range, and more. It's built using Flask, a trained machine learning model, and some spicy front-end flair! 🌶️
