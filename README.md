@@ -30,12 +30,15 @@ import joblib
 joblib.dump(model, 'restaurant_rating_predictor.pkl')
 ```
 
-### 4. Run the app:
+### 4. Ensure your data file is in place
+Make sure your dataset file (e.g., Dataset.csv) is correctly placed and the path in your code matches the file location. Update the path if necessary in the script where you load the dataset.
+
+### 5. Run the app:
 ```bash
 python app.py
 ```
 
-### 5. Visit your local server:
+### 6. Visit your local server:
 Fire up your browser and head to [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 
 ## 🔮 Features
