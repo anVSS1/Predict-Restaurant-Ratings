@@ -82,9 +82,9 @@ pip install -r requirements.txt
 
 Let’s get social! Follow me or check out my other projects:
 
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/anass-ouzaouit)
-- **GitHub**: [Your GitHub](https://github.com/anvss1)
-- **Twitter**: [Your Twitter](https://twitter.com/anvss_)
+- **LinkedIn**: [ LinkedIn](https://www.linkedin.com/in/anass-ouzaouit)
+- **GitHub**: [ GitHub](https://github.com/anvss1)
+- **Twitter**: [ Twitter](https://twitter.com/anvss_)
 
 ---
 
